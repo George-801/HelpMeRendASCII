@@ -1,0 +1,2 @@
+## **HelpMeRendASCII/RendASCIIHelper**
+This is a project a couple of friends and I worked on. Essentially, we just wanted to shorten the amount of code you have to write to utilise Garret Fairburn's ([See his website here](https://fairburn.dev/home/)) Python ASCII 3D rendering engine. We'd never used it before this project, and so some things may end up being slightly interesting due to our lack of experience with it.
